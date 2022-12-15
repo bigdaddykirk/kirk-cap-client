@@ -101,7 +101,7 @@ const Sport = (props) => {
     <div className="allSports">
       <div className="sportsCard">
         <div className="cardImage">
-          <img style={{maxWidth: '700px', heigth: 'auto', border: '5px solid white'}} className="sportImage" src={props.sport.image} alt="" />
+          <img style={{maxWidth: '400px', heigth: 'auto', border: '5px solid white'}} className="sportImage" src={props.sport.image} alt="" />
         </div>
         <div>
           <div style={{marginTop: '25px', fontSize: '25px', color: 'white'}} className="text-heading">{props.sport.title}</div>
@@ -128,7 +128,7 @@ export default class Sports extends Component {
     };
   }
   componentDidMount() {
-    axios.get("https://cap-backend-4spn.onrender.com/sports")
+    axios.get("https://cap-backend-que6.onrender.com/sports")
     .then(response => {
       this.setState({
         sports: response.data,
