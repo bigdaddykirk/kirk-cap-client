@@ -49,7 +49,7 @@ class Attractions extends Component {
                                     <i class="tf-ion-android-search"></i>
                           
                                 <h4><a href="">Cincinnati Reds</a></h4>
-                                <p style={{color: 'white'}} class="mb-0">The Cincinnati Reds is our baseball team</p>
+                                <p style={{color: 'white', maxWidth: "300px"}} class="mb-0">The Cincinnati Reds is our baseball team</p>
                             </div>
                         </div>
                     </div>
@@ -62,7 +62,7 @@ class Attractions extends Component {
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
                                 <h4><a href="">The Bengals</a></h4>
-                                <p style={{color: 'white'}} class="mb-0">WHO-DEY our signature saying for our football team The Bengals</p>
+                                <p style={{color: 'white', maxWidth: "300px"}} class="mb-0">WHO-DEY our signature saying for our football team The Bengals</p>
                             </div>
                         </div>
                     </div>
@@ -72,7 +72,7 @@ class Attractions extends Component {
                             <div class="caption">
                                
                                 <h4>FC Cincinnati</h4>
-                                <p style={{color: 'white'}} class="mb-0">FC Cincinnati is our first ever soccer team founded in 2018</p>
+                                <p style={{color: 'white', maxWidth: "300px"}} class="mb-0">FC Cincinnati is our first ever soccer team founded in 2018</p>
                             </div>
                         </div>
                     </div>
@@ -85,7 +85,7 @@ class Attractions extends Component {
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
                                 <h4><a href="">The Van Gogh Art Museum</a></h4>
-                                <p style={{color: 'white'}} class="mb-0">The Van Gogh museum was recently opened earlier 2022 to the public to give an art history of the historical painter.</p>
+                                <p style={{color: 'white', maxWidth:"300px"}} class="mb-0">The Van Gogh museum was recently opened earlier 2022 to the public to give an art history of the historical painter.</p>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@ class Attractions extends Component {
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
                                 <h4><a href="">Contemporary Art Center</a></h4>
-                                <p style={{color: 'white'}} class="mb-0">This art center is one of our most popular art atractions in the Cincinnati area houses art from a lot of local artists best pieces.</p>
+                                <p style={{color: 'white', maxWidth:"300px"}} class="mb-0">This art center is one of our most popular art atractions in the Cincinnati area houses art from a lot of local artists best pieces.</p>
                             </div>
                         </div>
                     </div> 
@@ -111,7 +111,7 @@ class Attractions extends Component {
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
                                 <h4><a href="">Play House In The Park</a></h4>
-                                <p style={{color: 'white'}} class="mb-0">Our theater provides a live performance of many famous plays and create an immursive feeling for the audience.</p>
+                                <p style={{color: 'white', maxWidth:"300px" }} class="mb-0">Our theater provides a live performance of many famous plays and create an immursive feeling for the audience.</p>
                             </div>
                         </div>
                     </div>
@@ -124,7 +124,7 @@ class Attractions extends Component {
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
                                 <h4><a href="">Union Center Terminal</a></h4>
-                                <p style={{color: 'white'}} class="mb-0">Union Center Terminal was founded in the 1920's connecting multiple rail lines but over time it eventually became an art museum for the public.</p>
+                                <p style={{color: 'white', maxWidth:"300px"}} class="mb-0">Union Center Terminal was founded in the 1920's connecting multiple rail lines but over time it eventually became an art museum for the public.</p>
                             </div>
                         </div>
                     </div>
@@ -137,7 +137,7 @@ class Attractions extends Component {
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
                                 <h4><a href="">Greaters</a></h4>
-                                <p style={{color: 'white'}} class="mb-0">Greaters is one of the biggest ice cream franchises in Cincinnati and is home of the black berry raspberry chocolate chip.
+                                <p style={{color: 'white', maxWidth:"300px"}} class="mb-0">Greaters is one of the biggest ice cream franchises in Cincinnati and is home of the black berry raspberry chocolate chip.
                                 </p>
                             </div>
                         </div>
@@ -151,7 +151,7 @@ class Attractions extends Component {
                                     <i class="tf-ion-android-search"></i>
                                 </a> */}
                                 <h4><a href="">La Rosa's</a></h4>
-                                <p style={{color: 'white'}} class="mb-0">La Rosa's is our famous local pizzeria founded in 1954 by Buddy Larosa.</p>
+                                <p style={{color: 'white', maxWidth:"300px"}} class="mb-0">La Rosa's is our famous local pizzeria founded in 1954 by Buddy Larosa.</p>
                             </div>
                         </div>
                     </div>
